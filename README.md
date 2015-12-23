@@ -1,5 +1,6 @@
 # Reversi
 
+<pre>
 1. Install CImg library
 
 Instructions for installing on ubuntu
@@ -12,3 +13,4 @@ Instructions for installing on ubuntu
 
 3. Run the executable created in the 2nd step
      I. ./reversi
+</pre>
